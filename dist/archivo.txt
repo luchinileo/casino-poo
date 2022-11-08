@@ -1,0 +1,5 @@
+{
+    "tematica": "Juego de Dados",
+    "valorDeApuesta": 10,
+    "dineroDisponible": 100
+}
